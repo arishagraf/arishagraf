@@ -14,8 +14,8 @@ Web-site: http://arishagraf.tilda.ws/http://arishagraf.tilda.ws
 
 # 📋 Experience
 
-  - 27.09.2018 - till now work as Android Developer in startup
-  - 01.05.2019 - 01.06.2019 - internship as Android Developer
+  - 27.09.2019 - till now work as Android Developer in startup
+  - 01.05.2020 - 01.06.2020 - internship as Android Developer
   - Bachelor student of Software Engineering
 
 # 🛠 Technology
