@@ -30,7 +30,7 @@ ________________________________________________________________________________
 - MVP, MVVM, DataBinding, LiveData, Multithreading (Coroutines, RxJava)
 - Rest API, JSON
 - Git
-
+ 
 # 🌐 Languages
 ___________________________________________________________________________________
 - English - Advanced
