@@ -32,6 +32,7 @@ Web-site: http://arishagraf.tilda.ws/http://arishagraf.tilda.ws
 - German - Proficient
 - Spanish - Intermediate
 - Russian - Native
+- Persian - Native
 
 
 
