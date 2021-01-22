@@ -22,7 +22,7 @@ Web-site: http://arishagraf.tilda.ws/http://arishagraf.tilda.ws
 
 - Java, Kotlin, XML
 - SQLite, DAO, Firebase
-- MVP, MVVM, DataBinding, LiveData, Multithreading (Coroutines, RxJava)
+- MVP, MVVM, DataBinding, LiveData, Multithreading
 - Rest API, JSON
 - Git
  
