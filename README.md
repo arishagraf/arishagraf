@@ -1,7 +1,7 @@
 
 # Hi, I'm Android Developer 👋
 
-[![N|Solid](https://www.vectorico.com/wp-content/uploads/2018/02/Linkedin-full-logo-300x74.png)](https://linkedin.com/in/aryna-sukhail)
+[![N|Solid](https://www.vectorico.com/wp-content/uploads/2018/02/Linkedin-full-logo-300x74.png)](https://linkedin.com/in/aryna-sukhai)
 
 Web-site: http://arishagraf.tilda.ws/http://arishagraf.tilda.ws
 
