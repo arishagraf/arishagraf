@@ -22,7 +22,7 @@ Web-site: http://arishagraf.tilda.ws/http://arishagraf.tilda.ws
 # 🛠 Technology
 
 - Java, Kotlin, XML
-- SQLite, DAO, Firebase
+- SQLite, Firebase
 - MVP, MVVM, DataBinding, LiveData, Multithreading, Coroutines, RxJava
 - Rest API, JSON
 - Git
