@@ -14,7 +14,7 @@ Web-site: http://arishagraf.tilda.ws/http://arishagraf.tilda.ws
 
 # 📋 Experience
 
-  - 01.04.2021 - now - Android Developer at telemedical comany, resudent of PHT and Great Stone
+  - 01.04.2021 - now - Android Developer at telemedical company, resident of PHT and Great Stone
   - 27.09.2019 - 01.04.2021 - Android Developer at startup
   - 2 internships as Android Developer
   - Bachelor student of Software Engineering
