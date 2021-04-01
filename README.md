@@ -14,15 +14,16 @@ Web-site: http://arishagraf.tilda.ws/http://arishagraf.tilda.ws
 
 # 📋 Experience
 
-  - 27.09.2019 - till now work as Android Developer in startup
-  - 01.05.2020 - 01.06.2020 - internship as Android Developer
+  - 01.04.2021 - now - Android Developer at telemedical comany, resudent of PHT and Great Stone
+  - 27.09.2019 - 01.04.2021 - Android Developer at startup
+  - 2 internships as Android Developer
   - Bachelor student of Software Engineering
 
 # 🛠 Technology
 
 - Java, Kotlin, XML
 - SQLite, DAO, Firebase
-- MVP, MVVM, DataBinding, LiveData, Multithreading
+- MVP, MVVM, DataBinding, LiveData, Multithreading, Coroutines, RxJava
 - Rest API, JSON
 - Git
  
